@@ -46,20 +46,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/shiva/shivam.java/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Question_1">
-    <configuration name="Question_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic_dsaWithJava.Question_1" />
-      <module name="shivamtomar.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic_dsaWithJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.pridictAnswer1">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main" />
       <module name="shivamtomar.java" />
@@ -83,7 +70,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question_1" />
         <item itemvalue="Application.pridictAnswer1" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.primeOrNot" />
