@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b74eab69-df66-4c04-b17b-9390b61efe8e" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic_dsaWithJava/Question_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_dsaWithJava/Question_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +26,12 @@
       </list>
     </option>
     <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -49,9 +54,9 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/shiva/shivam.java/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.passingArrayToMethods">
-    <configuration name="passingArrayToMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.passingArrayToMethods" />
+  <component name="RunManager" selected="Application.practiceQ9_sortArrayOf_zeros_ones">
+    <configuration name="practiceQ6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.practiceQ6" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practiceQ2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.practiceQ2" />
+    <configuration name="practiceQ7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.practiceQ7" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practiceQ3_linearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.practiceQ3_linearSearch" />
+    <configuration name="practiceQ7_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.practiceQ7_2" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practiceQ4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.practiceQ4" />
+    <configuration name="practiceQ8_rotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.practiceQ8_rotateArray" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practiceQ5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.practiceQ5" />
+    <configuration name="practiceQ9_sortArrayOf_zeros_ones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.practiceQ9_sortArrayOf_zeros_ones" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.passingArrayToMethods" />
-        <item itemvalue="Application.practiceQ5" />
-        <item itemvalue="Application.practiceQ4" />
-        <item itemvalue="Application.practiceQ3_linearSearch" />
-        <item itemvalue="Application.practiceQ2" />
+        <item itemvalue="Application.practiceQ9_sortArrayOf_zeros_ones" />
+        <item itemvalue="Application.practiceQ8_rotateArray" />
+        <item itemvalue="Application.practiceQ7_2" />
+        <item itemvalue="Application.practiceQ7" />
+        <item itemvalue="Application.practiceQ6" />
       </list>
     </recent_temporary>
   </component>
@@ -174,8 +179,27 @@
       <option name="project" value="LOCAL" />
       <updated>1707029505595</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1708232594843</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708232594844</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
