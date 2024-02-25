@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b74eab69-df66-4c04-b17b-9390b61efe8e" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern_Printing/starRectange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern_Printing/starRectange.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +55,9 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/shiva/shivam.java/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.practiceQ11_Next_greatest_element_method3_mostEfficientMethod">
-    <configuration name="maximumValueInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.maximumValueInArray" />
+  <component name="RunManager" selected="Application.starTriangle">
+    <configuration name="practiceQ9_method_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.practiceQ9_method_2" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mimimumValueInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.mimimumValueInArray" />
+    <configuration name="practiceQ9_sortArrayOf_zeros_ones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.practiceQ9_sortArrayOf_zeros_ones" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -81,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practiceQ11_Next_greatest_element_method1_nestedloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.practiceQ11_Next_greatest_element_method1_nestedloop" />
+    <configuration name="square_In_alphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern_Printing.square_In_alphabet" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="pattern_Printing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practiceQ11_Next_greatest_element_method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.practiceQ11_Next_greatest_element_method2" />
+    <configuration name="starRectange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern_Printing.starRectange" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="pattern_Printing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practiceQ11_Next_greatest_element_method3_mostEfficientMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.practiceQ11_Next_greatest_element_method3_mostEfficientMethod" />
+    <configuration name="starTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern_Printing.starTriangle" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="pattern_Printing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.practiceQ11_Next_greatest_element_method3_mostEfficientMethod" />
-        <item itemvalue="Application.practiceQ11_Next_greatest_element_method2" />
-        <item itemvalue="Application.mimimumValueInArray" />
-        <item itemvalue="Application.maximumValueInArray" />
-        <item itemvalue="Application.practiceQ11_Next_greatest_element_method1_nestedloop" />
+        <item itemvalue="Application.starTriangle" />
+        <item itemvalue="Application.square_In_alphabet" />
+        <item itemvalue="Application.starRectange" />
+        <item itemvalue="Application.practiceQ9_method_2" />
+        <item itemvalue="Application.practiceQ9_sortArrayOf_zeros_ones" />
       </list>
     </recent_temporary>
   </component>
@@ -187,31 +188,7 @@
       <option name="project" value="LOCAL" />
       <updated>1708232594844</updated>
     </task>
-    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <option name="closed" value="true" />
-      <created>1708454700200</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1708454700200</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <option name="closed" value="true" />
-      <created>1708454770786</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1708454770786</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <option name="closed" value="true" />
-      <created>1708454863588</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1708454863588</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
