@@ -1,5 +1,6 @@
 package pattern_Printing;
 
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class starRectange {
@@ -16,5 +17,12 @@ public class starRectange {
           System.out.println();
       }
 
+=======
+public class starRectange {
+    public static void main(String[] args) {
+      for (int i=0;i<5;i++){
+          System.out.print("*");
+      }
+>>>>>>> origin/master
     }
 }
