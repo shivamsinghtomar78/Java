@@ -44,7 +44,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.starPyramid_method2">
+  <component name="RunManager" selected="Application.numberPyramidPalindrome">
     <configuration name="Rhombus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pattern_Printing.Rhombus" />
       <module name="shivamtomar.java" />
@@ -71,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="numberTriangleFlippedVertically_method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern_Printing.numberTriangleFlippedVertically_method2" />
+    <configuration name="numberPyramidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern_Printing.numberPyramidPalindrome" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.numberPyramidPalindrome" />
         <item itemvalue="Application.starPyramid_method2" />
         <item itemvalue="Application.starPyramid" />
         <item itemvalue="Application.Rhombus_method2" />
         <item itemvalue="Application.Rhombus" />
-        <item itemvalue="Application.numberTriangleFlippedVertically_method2" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709185032290</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
+      <option name="closed" value="true" />
+      <created>1709188221963</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1709188221963</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
