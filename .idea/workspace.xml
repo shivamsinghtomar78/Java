@@ -32,6 +32,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/pattern_Printing/binaryTriangle.java" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2cxDrDf2U6iQubstfXSoRramIE9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,9 +47,35 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.starBridge">
-    <configuration name="Rhombus_method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern_Printing.Rhombus_method2" />
+  <component name="RunManager" selected="Application.numberBridge_method2">
+    <configuration name="NumberBridge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern_Printing.NumberBridge" />
+      <module name="shivamtomar.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pattern_Printing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="numberBridge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern_Printing.numberBridge" />
+      <module name="shivamtomar.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pattern_Printing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="numberBridge_method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern_Printing.numberBridge_method2" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -84,39 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="starPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern_Printing.starPyramid" />
-      <module name="shivamtomar.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pattern_Printing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="starPyramid_method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern_Printing.starPyramid_method2" />
-      <module name="shivamtomar.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pattern_Printing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.numberBridge_method2" />
+        <item itemvalue="Application.numberBridge" />
+        <item itemvalue="Application.NumberBridge" />
         <item itemvalue="Application.starBridge" />
         <item itemvalue="Application.numberPyramidPalindrome" />
-        <item itemvalue="Application.starPyramid_method2" />
-        <item itemvalue="Application.starPyramid" />
-        <item itemvalue="Application.Rhombus_method2" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709213345323</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
+      <option name="closed" value="true" />
+      <created>1709356375067</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1709356375067</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
