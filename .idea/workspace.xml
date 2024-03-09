@@ -7,6 +7,7 @@
     <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PatternPrinting_AssignmentQ/Question14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatternPrinting_AssignmentQ/Question14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern_Printing/starBridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern_Printing/starBridge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,7 @@
     <setting file="file://$PROJECT_DIR$/src/pattern_Printing/binaryTriangle.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2cxDrDf2U6iQubstfXSoRramIE9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -48,13 +49,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TransformIntoTranspose">
-    <configuration name="SumOfAllElementIn2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_2D.SumOfAllElementIn2DArray" />
+  <component name="RunManager" selected="Application.Question17">
+    <configuration name="Question15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PatternPrinting_AssignmentQ.Question15" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_2D.*" />
+          <option name="PATTERN" value="PatternPrinting_AssignmentQ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransformIntoTranspose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_2D.TransformIntoTranspose" />
+    <configuration name="Question16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PatternPrinting_AssignmentQ.Question16" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_2D.*" />
+          <option name="PATTERN" value="PatternPrinting_AssignmentQ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransposeOfMatrixAndStoreInNewMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_2D.TransposeOfMatrixAndStoreInNewMatrix" />
+    <configuration name="Question17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PatternPrinting_AssignmentQ.Question17" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_2D.*" />
+          <option name="PATTERN" value="PatternPrinting_AssignmentQ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="toAddTwoMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_2D.toAddTwoMatrices" />
+    <configuration name="ss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PatternPrinting_AssignmentQ.ss" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_2D.*" />
+          <option name="PATTERN" value="PatternPrinting_AssignmentQ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="transposeOfMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_2D.transposeOfMatrix" />
+    <configuration name="starBridge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern_Printing.starBridge" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_2D.*" />
+          <option name="PATTERN" value="pattern_Printing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TransformIntoTranspose" />
-        <item itemvalue="Application.TransposeOfMatrixAndStoreInNewMatrix" />
-        <item itemvalue="Application.transposeOfMatrix" />
-        <item itemvalue="Application.toAddTwoMatrices" />
-        <item itemvalue="Application.SumOfAllElementIn2DArray" />
+        <item itemvalue="Application.Question17" />
+        <item itemvalue="Application.ss" />
+        <item itemvalue="Application.Question16" />
+        <item itemvalue="Application.Question15" />
+        <item itemvalue="Application.starBridge" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +294,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709555987022</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
+      <option name="closed" value="true" />
+      <created>1709666271899</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1709666271899</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
