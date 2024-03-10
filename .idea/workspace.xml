@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PatternPrinting_AssignmentQ/Question14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatternPrinting_AssignmentQ/Question14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pattern_Printing/starBridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern_Printing/starBridge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +47,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Question17">
-    <configuration name="Question15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PatternPrinting_AssignmentQ.Question15" />
+  <component name="RunManager" selected="Application.Question4">
+    <configuration name="Question1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array_assignment_Questions.Question1" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PatternPrinting_AssignmentQ.*" />
+          <option name="PATTERN" value="array_assignment_Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PatternPrinting_AssignmentQ.Question16" />
+    <configuration name="Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array_assignment_Questions.Question2" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PatternPrinting_AssignmentQ.*" />
+          <option name="PATTERN" value="array_assignment_Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PatternPrinting_AssignmentQ.Question17" />
+    <configuration name="Question3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array_assignment_Questions.Question3" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PatternPrinting_AssignmentQ.*" />
+          <option name="PATTERN" value="array_assignment_Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PatternPrinting_AssignmentQ.ss" />
+    <configuration name="Question4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array_assignment_Questions.Question4" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PatternPrinting_AssignmentQ.*" />
+          <option name="PATTERN" value="array_assignment_Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="starBridge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern_Printing.starBridge" />
+    <configuration name="s" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array_assignment_Questions.s" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pattern_Printing.*" />
+          <option name="PATTERN" value="array_assignment_Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question17" />
-        <item itemvalue="Application.ss" />
-        <item itemvalue="Application.Question16" />
-        <item itemvalue="Application.Question15" />
-        <item itemvalue="Application.starBridge" />
+        <item itemvalue="Application.Question4" />
+        <item itemvalue="Application.Question3" />
+        <item itemvalue="Application.Question2" />
+        <item itemvalue="Application.s" />
+        <item itemvalue="Application.Question1" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +300,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709666271899</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
+      <option name="closed" value="true" />
+      <created>1710010658310</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1710010658310</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
