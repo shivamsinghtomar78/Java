@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
-      <change afterPath="$PROJECT_DIR$/src/array_assignment_Questions/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array_assignment_Questions/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array_assignment_Questions/Question3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array_assignment_Questions/Question4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array_assignment_Questions/Question5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array_assignment_Questions/Question10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array_assignment_Questions/Question10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array_assignment_Questions/Question5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array_assignment_Questions/Question5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +49,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Question4">
-    <configuration name="Question1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array_assignment_Questions.Question1" />
+  <component name="RunManager" selected="Application.Question9">
+    <configuration name="Question5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array_assignment_Questions.Question5" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array_assignment_Questions.Question2" />
+    <configuration name="Question6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array_assignment_Questions.Question6" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array_assignment_Questions.Question3" />
+    <configuration name="Question7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array_assignment_Questions.Question7" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array_assignment_Questions.Question4" />
+    <configuration name="Question8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array_assignment_Questions.Question8" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="s" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array_assignment_Questions.s" />
+    <configuration name="Question9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array_assignment_Questions.Question9" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question4" />
-        <item itemvalue="Application.Question3" />
-        <item itemvalue="Application.Question2" />
-        <item itemvalue="Application.s" />
-        <item itemvalue="Application.Question1" />
+        <item itemvalue="Application.Question9" />
+        <item itemvalue="Application.Question8" />
+        <item itemvalue="Application.Question7" />
+        <item itemvalue="Application.Question6" />
+        <item itemvalue="Application.Question5" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +318,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710099300020</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
+      <option name="closed" value="true" />
+      <created>1710099329725</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1710099329725</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
