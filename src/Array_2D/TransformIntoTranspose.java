@@ -23,7 +23,7 @@ public class TransformIntoTranspose {
         print(arr);
         for (int i = 0; i < m; i++) {
             for (int j = 0; j <i ; j++) {
-                int temp=arr[i][j];
+                int temp=arr[i][j];// swapping the value ...
                 arr[i][j]=arr[j][i];
                 arr[j][i]=temp;
 

@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java" />
+    <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_2D/LargestElementIn2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_2D/LargestElementIn2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_2D/RotateMatrixByNinetyDegree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_2D/RotateMatrixByNinetyDegree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_2D/TransformIntoTranspose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_2D/TransformIntoTranspose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_2D/rotateTheMatrixBy90Degreee.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,13 +51,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Question14">
-    <configuration name="Question10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array_assignment_Questions.Question10" />
+  <component name="RunManager" selected="Application.RotateMatrixByNinetyDegree">
+    <configuration name="LargestElementIn2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_2D.LargestElementIn2D" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array_assignment_Questions.*" />
+          <option name="PATTERN" value="Array_2D.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array_assignment_Questions.Question11" />
+    <configuration name="RotateMatrixByNinetyDegree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_2D.RotateMatrixByNinetyDegree" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array_assignment_Questions.*" />
+          <option name="PATTERN" value="Array_2D.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array_assignment_Questions.Question12" />
+    <configuration name="TransformIntoTranspose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_2D.TransformIntoTranspose" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array_assignment_Questions.*" />
+          <option name="PATTERN" value="Array_2D.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array_assignment_Questions.Question14" />
+    <configuration name="TransposeOfMatrixAndStoreInNewMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_2D.TransposeOfMatrixAndStoreInNewMatrix" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array_assignment_Questions.*" />
+          <option name="PATTERN" value="Array_2D.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array_assignment_Questions.Question9" />
+    <configuration name="transposeOfMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_2D.transposeOfMatrix" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array_assignment_Questions.*" />
+          <option name="PATTERN" value="Array_2D.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question14" />
-        <item itemvalue="Application.Question12" />
-        <item itemvalue="Application.Question11" />
-        <item itemvalue="Application.Question10" />
-        <item itemvalue="Application.Question9" />
+        <item itemvalue="Application.RotateMatrixByNinetyDegree" />
+        <item itemvalue="Application.TransformIntoTranspose" />
+        <item itemvalue="Application.TransposeOfMatrixAndStoreInNewMatrix" />
+        <item itemvalue="Application.transposeOfMatrix" />
+        <item itemvalue="Application.LargestElementIn2D" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +352,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710268528358</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
+      <option name="closed" value="true" />
+      <created>1710268720456</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1710268720456</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
