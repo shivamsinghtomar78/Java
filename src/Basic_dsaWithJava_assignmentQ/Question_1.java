@@ -1,4 +1,4 @@
-package Basic_dsaWithJava;
+package Basic_dsaWithJava_assignmentQ;
 
 public class Question_1 {
     public static void main(String[] args) {

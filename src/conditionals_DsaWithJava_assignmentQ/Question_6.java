@@ -1,4 +1,4 @@
-package conditionals_DsaWithJava;
+package conditionals_DsaWithJava_assignmentQ;
 
 import java.util.Scanner;
 

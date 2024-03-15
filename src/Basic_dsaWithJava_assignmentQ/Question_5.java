@@ -1,4 +1,4 @@
-package Basic_dsaWithJava;
+package Basic_dsaWithJava_assignmentQ;
 
 import java.util.Scanner;
 

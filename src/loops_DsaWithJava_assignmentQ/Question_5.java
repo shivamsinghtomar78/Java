@@ -1,4 +1,4 @@
-package loops_DsaWithJava;
+package loops_DsaWithJava_assignmentQ;
 import java.util.Scanner;
 
 public class Question_5 {
