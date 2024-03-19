@@ -1,3 +1,5 @@
+package basicJava_Q;
+
 import java.util.Scanner;
 
 public class gp {

@@ -1,3 +1,5 @@
+package basicJava_Q;
+
 public class pridictAnswer1 {
     public static void main(String[] args) {
         int x=1;

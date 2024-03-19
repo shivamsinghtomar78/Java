@@ -6,6 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apMethod1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apMethod2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/compositeOrNot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/countDigitNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pridictAnswer1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primeOrNot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sumOfDigitsOfGivenNumber.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +40,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/pattern_Printing/binaryTriangle.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/strings/compareTo.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -47,13 +57,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.generatePascalTriangle">
-    <configuration name="RotateMatrixByNinetyDegree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_2D.RotateMatrixByNinetyDegree" />
+  <component name="RunManager" selected="Application.updateStringAtEvenPosition">
+    <configuration name="apMethod2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicJava_Q.apMethod2" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_2D.*" />
+          <option name="PATTERN" value="basicJava_Q.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="declarationOfArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayList_2D.declarationOfArrayList" />
+    <configuration name="interningAndNewKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.interningAndNewKeyword" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayList_2D.*" />
+          <option name="PATTERN" value="strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="generatePascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayList_2D.generatePascalTriangle" />
+    <configuration name="modifyCharacterInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.modifyCharacterInString" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayList_2D.*" />
+          <option name="PATTERN" value="strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printMAtrixInSpiralForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_2D.printMAtrixInSpiralForm" />
+    <configuration name="totalNumberOfDigit_In_Number_withoutLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.totalNumberOfDigit_In_Number_withoutLoop" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_2D.*" />
+          <option name="PATTERN" value="strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printMatrixInWaveform" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_2D.printMatrixInWaveform" />
+    <configuration name="updateStringAtEvenPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.updateStringAtEvenPosition" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_2D.*" />
+          <option name="PATTERN" value="strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.generatePascalTriangle" />
-        <item itemvalue="Application.declarationOfArrayList" />
-        <item itemvalue="Application.printMAtrixInSpiralForm" />
-        <item itemvalue="Application.printMatrixInWaveform" />
-        <item itemvalue="Application.RotateMatrixByNinetyDegree" />
+        <item itemvalue="Application.updateStringAtEvenPosition" />
+        <item itemvalue="Application.modifyCharacterInString" />
+        <item itemvalue="Application.interningAndNewKeyword" />
+        <item itemvalue="Application.totalNumberOfDigit_In_Number_withoutLoop" />
+        <item itemvalue="Application.apMethod2" />
       </list>
     </recent_temporary>
   </component>
@@ -404,7 +414,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710511363285</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1710571758524</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1710571758524</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
