@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stringBuilder/leetcode_242.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +49,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.sortingString">
-    <configuration name="append" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringBuilder.append" />
+  <component name="RunManager" selected="Application.printMostOccuringCharacter">
+    <configuration name="deleteAndInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringBuilder.deleteAndInsert" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -62,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="deleteAndInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringBuilder.deleteAndInsert" />
+    <configuration name="printMostOccuringCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringBuilder.printMostOccuringCharacter" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.printMostOccuringCharacter" />
         <item itemvalue="Application.sortingString" />
         <item itemvalue="Application.reverseEachWordInGivenSentence" />
         <item itemvalue="Application.reverse" />
         <item itemvalue="Application.deleteAndInsert" />
-        <item itemvalue="Application.append" />
       </list>
     </recent_temporary>
   </component>
@@ -429,7 +430,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710940171385</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1711262632931</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1711262632931</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
