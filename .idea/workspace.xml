@@ -48,7 +48,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.bubbleSort_2">
+  <component name="RunManager" selected="Application.RomanNumberToInteger">
+    <configuration name="RomanNumberToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicJava_Q.RomanNumberToInteger" />
+      <module name="shivamtomar.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicJava_Q.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="bubbleSort_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sorting.bubbleSort_1" />
       <module name="shivamtomar.java" />
@@ -88,25 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="checkIfArraySortedOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.checkIfArraySortedOrNot" />
+    <configuration name="romanNumberToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicJava_Q.romanNumberToInteger" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="printMostOccuringCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringBuilder.printMostOccuringCharacter" />
-      <module name="shivamtomar.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stringBuilder.*" />
+          <option name="PATTERN" value="basicJava_Q.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RomanNumberToInteger" />
+        <item itemvalue="Application.romanNumberToInteger" />
         <item itemvalue="Application.bubbleSort_2" />
         <item itemvalue="Application.bubbleSort_1" />
         <item itemvalue="Application.builtInSort" />
-        <item itemvalue="Application.checkIfArraySortedOrNot" />
-        <item itemvalue="Application.printMostOccuringCharacter" />
       </list>
     </recent_temporary>
   </component>
@@ -461,7 +461,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711894222417</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary=" new question">
+      <option name="closed" value="true" />
+      <created>1712078842785</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1712078842785</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
