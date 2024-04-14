@@ -1,6 +1,6 @@
 package sorting;
 
-public class selectionSort_2 {
+public class insertionSort {
     public static void print(int[] arr) {
         for (int ele : arr) {
             System.out.print(ele + " ");
@@ -17,20 +17,20 @@ public class selectionSort_2 {
         int n = arr.length;
         System.out.print("Unsorted array: ");
         print(arr);
-        // selection sorting
-        for (int i = 0; i <n-1 ; i++) {
-            int min = Integer.MAX_VALUE;
-            int index = -1;
-            for (int j = i; j < n; j++) {
-                if (arr[j] < min) {
-                    min = arr[j];
-                    index = j;
+        // insertion sorting
+        for (int i = 1; i <n ; i++) {
+            for (int j = i; j>=1; j--) {
+                if (arr[j] < arr[j-1]) {
+                   swap(arr,j,j-1);
+
                 }
+                else break;
             }
-            swap(arr,i,index);
+
         }
         System.out.print("Sorted array: ");
         print(arr);
+
 
     }
 }
