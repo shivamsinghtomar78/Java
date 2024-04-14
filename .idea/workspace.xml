@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment=" new question">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/mimimumValueInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/mimimumValueInArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +61,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.selectionSort_2">
-    <configuration name="RomanNumberToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicJava_Q.RomanNumberToInteger" />
+  <component name="RunManager" selected="Application.decreasingOrder_UsingBubbleSort">
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.SelectionSort" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicJava_Q.*" />
+          <option name="PATTERN" value="sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.SelectionSort" />
+    <configuration name="decreasingOrder_UsingBubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.decreasingOrder_UsingBubbleSort" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.decreasingOrder_UsingBubbleSort" />
         <item itemvalue="Application.selectionSort_2" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.selectionSort" />
         <item itemvalue="Application.mimimumValueInArray" />
-        <item itemvalue="Application.RomanNumberToInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -491,7 +490,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713024543383</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary=" new question">
+      <option name="closed" value="true" />
+      <created>1713104777968</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1713104777968</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
