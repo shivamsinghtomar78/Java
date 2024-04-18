@@ -61,7 +61,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.firstAndLastPositionOfNumber">
+  <component name="RunManager" selected="Application.peakIndex_In_Mountain_array">
     <configuration name="bs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="binarSearch.bs" />
       <module name="shivamtomar.java" />
@@ -101,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="problem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.problem1" />
+    <configuration name="peakIndex_In_Mountain_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarSearch.peakIndex_In_Mountain_array" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sorting.*" />
+          <option name="PATTERN" value="binarSearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,24 +129,16 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.peakIndex_In_Mountain_array" />
         <item itemvalue="Application.firstAndLastPositionOfNumber" />
         <item itemvalue="Application.lowerBound" />
         <item itemvalue="Application.upperBound" />
         <item itemvalue="Application.bs" />
-        <item itemvalue="Application.problem1" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
-      <option name="closed" value="true" />
-      <created>1708952127576</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1708952127576</updated>
-    </task>
     <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
       <option name="closed" value="true" />
       <created>1708952558902</created>
@@ -538,7 +530,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713414036786</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary=" new question">
+      <option name="closed" value="true" />
+      <created>1713418390236</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1713418390238</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
