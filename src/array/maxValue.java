@@ -13,5 +13,6 @@ public class maxValue {
             }
         }
         System.out.println("maximum value is "+max+" in the index of "+index);
+        
     }
 }
