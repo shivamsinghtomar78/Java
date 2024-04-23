@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment=" new question">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/print_1_to_n.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/print_n_To_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/factorial_Using_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/factorial_Using_Recursion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,22 +62,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.print_1_to_n">
-    <configuration name="FindTheSumOfTwoPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicJava_Q.FindTheSumOfTwoPairs" />
-      <module name="shivamtomar.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basicJava_Q.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="factorial_Using_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.factorial_Using_Recursion" />
+  <component name="RunManager" selected="Application.powerLInear">
+    <configuration name="powerLInear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.powerLInear" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +76,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="functionCalls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.functionCalls" />
+    <configuration name="printIncreasingAfterCall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.printIncreasingAfterCall" />
+      <module name="shivamtomar.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="printSumFrom_1_to_n" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.printSumFrom_1_to_n" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="print_n_To_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.print_n_To_1" />
+    <configuration name="tSumFrom_1_to_n_returnTYpe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.tSumFrom_1_to_n_returnTYpe" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -131,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.powerLInear" />
+        <item itemvalue="Application.tSumFrom_1_to_n_returnTYpe" />
+        <item itemvalue="Application.printSumFrom_1_to_n" />
+        <item itemvalue="Application.printIncreasingAfterCall" />
         <item itemvalue="Application.print_1_to_n" />
-        <item itemvalue="Application.print_n_To_1" />
-        <item itemvalue="Application.factorial_Using_Recursion" />
-        <item itemvalue="Application.functionCalls" />
-        <item itemvalue="Application.FindTheSumOfTwoPairs" />
       </list>
     </recent_temporary>
   </component>
@@ -147,14 +146,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709044551611</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
-      <option name="closed" value="true" />
-      <created>1709129491919</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1709129491919</updated>
     </task>
     <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
       <option name="closed" value="true" />
@@ -540,7 +531,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713814035316</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary=" new question">
+      <option name="closed" value="true" />
+      <created>1713814063804</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1713814063804</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
