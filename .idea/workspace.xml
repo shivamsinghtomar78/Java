@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment=" new question">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/factorial_Using_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/factorial_Using_Recursion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.powerLInear">
+  <component name="RunManager" selected="Application.stair_path">
+    <configuration name="fibonacciNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.fibonacciNumber" />
+      <module name="shivamtomar.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="powerLInear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion.powerLInear" />
       <module name="shivamtomar.java" />
@@ -76,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printIncreasingAfterCall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.printIncreasingAfterCall" />
+    <configuration name="powerLinear_TC_log" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.powerLinear_TC_log" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -89,21 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printSumFrom_1_to_n" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.printSumFrom_1_to_n" />
-      <module name="shivamtomar.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="print_1_to_n" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.print_1_to_n" />
+    <configuration name="stair_path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.stair_path" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.stair_path" />
+        <item itemvalue="Application.fibonacciNumber" />
+        <item itemvalue="Application.powerLinear_TC_log" />
         <item itemvalue="Application.powerLInear" />
         <item itemvalue="Application.tSumFrom_1_to_n_returnTYpe" />
-        <item itemvalue="Application.printSumFrom_1_to_n" />
-        <item itemvalue="Application.printIncreasingAfterCall" />
-        <item itemvalue="Application.print_1_to_n" />
       </list>
     </recent_temporary>
   </component>
@@ -146,14 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709044551611</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
-      <option name="closed" value="true" />
-      <created>1709129508377</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1709129508377</updated>
     </task>
     <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
       <option name="closed" value="true" />
@@ -539,7 +530,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713814063804</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary=" new question">
+      <option name="closed" value="true" />
+      <created>1713898241290</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1713898241290</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
