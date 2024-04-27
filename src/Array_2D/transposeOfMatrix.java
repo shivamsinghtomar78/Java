@@ -1,7 +1,4 @@
 package Array_2D;
-
-
-
 public class transposeOfMatrix {
     public static void main(String[] args) {
          //Transpose of matrix
