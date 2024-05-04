@@ -2,7 +2,7 @@ package Recursion;
 
 import java.util.Scanner;
 
-public class fibonacciNumber {
+public class fibonacci_No_Sum {
     public static int fibo(int n){
         if(n<=1) return n;
         return fibo(n-1)+fibo(n-2);

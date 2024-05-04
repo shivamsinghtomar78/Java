@@ -5,11 +5,12 @@ import java.util.Scanner;
 public class powerLInear {
     public static int pow(int a,int b){
 
-       if(a==0 || b==0){
+       if(a==0 && b==0){
            System.out.println("Not defined ");
            return  -1;
        }
         if(b==0) return 1;
+
         return a*pow(a,b-1);
 
     }
