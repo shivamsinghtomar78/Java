@@ -9,7 +9,6 @@ public class printSumFrom_1_to_n {
             return ;
         }
         sum(n-1,sum+n);// call and work
-
     }
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);

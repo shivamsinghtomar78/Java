@@ -14,4 +14,6 @@ public class printIncreasingAfterCall{
         int n=sc.nextInt();
         print(n);
     }
+
+
 }
