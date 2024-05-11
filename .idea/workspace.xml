@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment=" new question">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/fibonacci_Series_print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/fibonacci_Series_print.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/printIncreasingAfterCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/printIncreasingAfterCall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/printSumFrom_1_to_n.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/printSumFrom_1_to_n.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,22 +61,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.functionCalls">
-    <configuration name="factorial_Using_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.factorial_Using_Recursion" />
-      <module name="shivamtomar.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="fibonacci_No_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.fibonacci_No_Sum" />
+  <component name="RunManager" selected="Application.generateParantheses">
+    <configuration name="binarString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.binarString" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +101,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printSumFrom_1_to_n" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.printSumFrom_1_to_n" />
+    <configuration name="generateParantheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.generateParantheses" />
+      <module name="shivamtomar.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hcfRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.hcfRec" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.generateParantheses" />
+        <item itemvalue="Application.binarString" />
+        <item itemvalue="Application.hcfRec" />
         <item itemvalue="Application.functionCalls" />
         <item itemvalue="Application.fibonacci_Series_print" />
-        <item itemvalue="Application.fibonacci_No_Sum" />
-        <item itemvalue="Application.factorial_Using_Recursion" />
-        <item itemvalue="Application.printSumFrom_1_to_n" />
       </list>
     </recent_temporary>
   </component>
@@ -148,14 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709044551611</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
-      <option name="closed" value="true" />
-      <created>1709213345323</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1709213345323</updated>
     </task>
     <task id="LOCAL-00016" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
       <option name="closed" value="true" />
@@ -541,7 +530,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714839637686</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary=" new question">
+      <option name="closed" value="true" />
+      <created>1715367353731</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1715367353731</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
