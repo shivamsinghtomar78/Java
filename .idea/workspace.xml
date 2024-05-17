@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment=" new question">
-      <change afterPath="$PROJECT_DIR$/src/advance_Sorting/Kth_Smallest_Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance_Sorting/Kth_largest_Element.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,13 +61,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Kth_Smallest_Element">
-    <configuration name="Kth_Smallest_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advance_Sorting.Kth_Smallest_Element" />
+  <component name="RunManager" selected="Application.fraction">
+    <configuration name="fraction (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops_In_Java.fraction" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advance_Sorting.*" />
+          <option name="PATTERN" value="oops_In_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kth_largest_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advance_Sorting.Kth_largest_Element" />
+    <configuration name="fraction (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops_In_Java.fraction" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advance_Sorting.*" />
+          <option name="PATTERN" value="oops_In_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="inversionCount_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advance_Sorting.inversionCount_2" />
+    <configuration name="fraction (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops_In_Java.fraction" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advance_Sorting.*" />
+          <option name="PATTERN" value="oops_In_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quickSortAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advance_Sorting.quickSortAlgo" />
+    <configuration name="fraction (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops_In_Java.fraction" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advance_Sorting.*" />
+          <option name="PATTERN" value="oops_In_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quicksortAlgo_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advance_Sorting.quicksortAlgo_2" />
+    <configuration name="fraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops_In_Java.fraction" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advance_Sorting.*" />
+          <option name="PATTERN" value="oops_In_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Kth_Smallest_Element" />
-        <item itemvalue="Application.Kth_largest_Element" />
-        <item itemvalue="Application.quicksortAlgo_2" />
-        <item itemvalue="Application.quickSortAlgo" />
-        <item itemvalue="Application.inversionCount_2" />
+        <item itemvalue="Application.fraction" />
+        <item itemvalue="Application.fraction (3)" />
+        <item itemvalue="Application.fraction (2)" />
+        <item itemvalue="Application.fraction (1)" />
+        <item itemvalue="Application.fraction (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -147,14 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709044551611</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
-      <option name="closed" value="true" />
-      <created>1710099329725</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1710099329725</updated>
     </task>
     <task id="LOCAL-00025" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
       <option name="closed" value="true" />
@@ -540,7 +530,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715704154006</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary=" new question">
+      <option name="closed" value="true" />
+      <created>1715707178899</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1715707178900</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
