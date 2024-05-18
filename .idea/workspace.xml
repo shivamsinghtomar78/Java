@@ -61,13 +61,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.fraction">
-    <configuration name="fraction (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops_In_Java.fraction" />
+  <component name="RunManager" selected="Application.implementationLL (4)">
+    <configuration name="implementationLL (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.implementationLL" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops_In_Java.*" />
+          <option name="PATTERN" value="linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fraction (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops_In_Java.fraction" />
+    <configuration name="implementationLL (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.implementationLL" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops_In_Java.*" />
+          <option name="PATTERN" value="linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fraction (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops_In_Java.fraction" />
+    <configuration name="implementationLL (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.implementationLL" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops_In_Java.*" />
+          <option name="PATTERN" value="linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fraction (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops_In_Java.fraction" />
+    <configuration name="implementationLL (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.implementationLL" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops_In_Java.*" />
+          <option name="PATTERN" value="linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops_In_Java.fraction" />
+    <configuration name="implementationLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.implementationLL" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops_In_Java.*" />
+          <option name="PATTERN" value="linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.fraction" />
-        <item itemvalue="Application.fraction (3)" />
-        <item itemvalue="Application.fraction (2)" />
-        <item itemvalue="Application.fraction (1)" />
-        <item itemvalue="Application.fraction (5)" />
+        <item itemvalue="Application.implementationLL (4)" />
+        <item itemvalue="Application.implementationLL" />
+        <item itemvalue="Application.implementationLL (3)" />
+        <item itemvalue="Application.implementationLL (2)" />
+        <item itemvalue="Application.implementationLL (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -145,14 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709044551611</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
-      <option name="closed" value="true" />
-      <created>1710188722232</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1710188722232</updated>
     </task>
     <task id="LOCAL-00026" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
       <option name="closed" value="true" />
@@ -538,7 +530,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715707178900</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary=" new question">
+      <option name="closed" value="true" />
+      <created>1715973738421</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1715973738423</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
