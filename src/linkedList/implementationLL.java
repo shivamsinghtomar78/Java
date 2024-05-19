@@ -47,7 +47,7 @@ class SLL{// user defined data structure
             insertAtEnd(val);
             return;
         }
-        if(index>size){
+        if(index>size || index<0){
             System.out.println("invalid index !!");
             return;
         }
@@ -60,6 +60,54 @@ class SLL{// user defined data structure
         temp.next=x.next;
         x.next=temp;
         size++;
+    }
+    int get(int idx){
+        if(idx==size-1) return tail.val;
+        if(idx>=size || idx<0) {
+             throw new Error("yarr error aa gya ");
+        }
+        Node temp=head;
+        for (int i = 1; i <=idx ; i++) {
+            temp=temp.next;
+
+        }
+        return temp.val;
+    }
+    void set(int idx,int val){
+        if(idx==size-1){
+             tail.val=val;
+        }
+        if(idx>=size || idx<0) {
+            throw new Error("yarr error aa gya ");
+        }
+        Node temp=head;
+        for (int i = 1; i <=idx ; i++) {
+            temp=temp.next;
+
+        }
+        temp.val=val;
+    }
+    void deleteAtHead(){
+        if(head==null) throw new Error("List is empty yarr ");
+        head=head.next;
+        size--;
+    }
+    void delete(int idx){
+        if(idx==0){
+            deleteAtHead();
+            return;
+        }
+        if(head==null) throw new Error("List is empty yarr ");
+        if(idx<0 || idx>=size) {
+            throw new Error("invalid index !!");
+        }
+        Node temp=head ;
+        for (int i =1; i <=idx-1; i++) {
+            temp=temp.next;
+        }
+        if(temp.next==tail) tail=temp;
+        temp.next=temp.next.next;
+     size--;
     }
 
   }
@@ -89,12 +137,15 @@ public class implementationLL {
         list.display();
         list.insert(3,200);
         list.display();
-
-
-
-
-
-
+        System.out.println(list.get(3));
+        list.display();
+        list.set(2,500);
+        list.display();
+        list.deleteAtHead();
+        list.display();
+        list.delete(3);
+        list.display();
+        list.size();
 
     }
 }
