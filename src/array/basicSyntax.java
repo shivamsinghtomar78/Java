@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class basicSyntax {
     public static void main(String[] args) {
          Scanner sc=new Scanner(System.in);
-         int x;
          int[]arr=new int[5];
          arr[0]=10;
         arr[1]=20;
