@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment=" new question">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advance_Sorting/merge_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advance_Sorting/merge_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/basicSyntax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/basicSyntax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedList/implementationLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/implementationLL.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +61,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.basicSyntax">
-    <configuration name="ListNodeClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedList.ListNodeClass" />
+  <component name="RunManager" selected="Application.bubbleSort_3">
+    <configuration name="basicOfArraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.basicOfArraylist" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedList.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,6 +88,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="bubbleSort_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.bubbleSort_3" />
+      <module name="shivamtomar.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="copyOfarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.copyOfarray" />
       <module name="shivamtomar.java" />
@@ -104,25 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="implementationLL (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedList.implementationLL" />
+    <configuration name="decreasingOrder_UsingBubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.decreasingOrder_UsingBubbleSort" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="merge_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advance_Sorting.merge_Sort" />
-      <module name="shivamtomar.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="advance_Sorting.*" />
+          <option name="PATTERN" value="sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.bubbleSort_3" />
+        <item itemvalue="Application.decreasingOrder_UsingBubbleSort" />
+        <item itemvalue="Application.basicOfArraylist" />
         <item itemvalue="Application.basicSyntax" />
         <item itemvalue="Application.copyOfarray" />
-        <item itemvalue="Application.merge_Sort" />
-        <item itemvalue="Application.implementationLL (1)" />
-        <item itemvalue="Application.ListNodeClass" />
       </list>
     </recent_temporary>
   </component>
@@ -148,14 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709044551611</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
-      <option name="closed" value="true" />
-      <created>1710480972499</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1710480972500</updated>
     </task>
     <task id="LOCAL-00031" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/pattern_Printing/starRectange.java">
       <option name="closed" value="true" />
@@ -541,7 +530,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716127641804</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary=" new question">
+      <option name="closed" value="true" />
+      <created>1717559837251</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1717559837251</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

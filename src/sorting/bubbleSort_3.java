@@ -17,7 +17,7 @@ public class bubbleSort_3 {
         //bubble sort-2
         for (int x = 0; x < n - 1; x++) {
             boolean flag=true;
-            for (int i = 0; i < n - 1 - x; i++) {
+            for (int i = 0; i < n - 1-x ; i++) {
                 if (arr[i] > arr[i + 1]) {
                     int temp = arr[i];
                     arr[i] = arr[i + 1];
