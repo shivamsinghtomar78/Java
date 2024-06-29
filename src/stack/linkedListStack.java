@@ -64,6 +64,9 @@ class Node {
 
 public class linkedListStack {
     public static void main(String[] args) {
+        Node stack=new Node();
+        stack.push(5);
+        System.out.println(stack.pop());
 
     }
 }
