@@ -37,8 +37,10 @@ class Node {
         int val = head.val;
         head = head.next;
         size--;
-        if (isEmpty()) {
-            tail = null;
+        if (size == 1) {
+            tail = head;  // Update tail when there's only one element left
+        } else if (isEmpty()) {
+            tail = null;  // Set tail to null when the stack becomes empty
         }
         return val;
     }
