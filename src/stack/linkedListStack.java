@@ -12,53 +12,6 @@ class Node {
     ListNode head;
     ListNode tail;
     int size;
-
-    class arrayStack {
-        private int maxSize;
-        private int[] stackArray;
-        private int top;
-
-        public arrayStack(int size) {
-            maxSize = size;
-            stackArray = new int[maxSize];
-            top = -1;
-        }
-
-        public void push(int value) {
-            if (top < maxSize - 1) {
-                stackArray[++top] = value;
-            } else {
-                System.out.println("Stack is full. Cannot push " + value);
-            }
-        }
-
-        public int pop() {
-            if (top >= 0) {
-                return stackArray[top--];
-            } else {
-                System.out.println("Stack is empty.");
-                return -1;
-            }
-        }
-
-        public int peek() {
-            if (top >= 0) {
-                return stackArray[top];
-            } else {
-                System.out.println("Stack is empty.");
-                return -1;
-            }
-        }
-
-        public boolean isEmpty() {
-            return (top == -1);
-        }
-
-        public boolean isFull() {
-            return (top == maxSize - 1);
-        }
-    }
-
     public Node() {
         this.head = null;
         this.tail = null;
