@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment=" new question">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/infix_To_postfix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack/infix_To_postfix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.infix_To_postfix">
+  <component name="RunManager" selected="Application.postfix_Evaluation">
     <configuration name="infix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stack.infix" />
       <module name="shivamtomar.java" />
@@ -115,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lowerBound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binarSearch.lowerBound" />
+    <configuration name="postfix_Evaluation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.postfix_Evaluation" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="binarSearch.*" />
+          <option name="PATTERN" value="stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.postfix_Evaluation" />
         <item itemvalue="Application.infix_To_postfix" />
         <item itemvalue="Application.infix_To_prefix" />
         <item itemvalue="Application.infix_WithBracket" />
         <item itemvalue="Application.infix" />
-        <item itemvalue="Application.lowerBound" />
       </list>
     </recent_temporary>
   </component>
@@ -146,14 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709044551611</updated>
-    </task>
-    <task id="LOCAL-00043" summary=" new question">
-      <option name="closed" value="true" />
-      <created>1713024543383</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1713024543383</updated>
     </task>
     <task id="LOCAL-00044" summary=" new question">
       <option name="closed" value="true" />
@@ -539,7 +530,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720074958756</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary=" new question">
+      <option name="closed" value="true" />
+      <created>1720112346657</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1720112346657</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
