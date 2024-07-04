@@ -22,7 +22,7 @@ public class firstAndLastPositionOfNumber {
 
             }
         }
-        if(flag==false) System.out.print("Element not present ");
+        if(flag==false) System.out.println("Element not present ");
 
 
 
