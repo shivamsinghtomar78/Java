@@ -61,20 +61,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.postfix_Evaluation">
-    <configuration name="infix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stack.infix" />
-      <module name="shivamtomar.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.prefix_Evaluation">
     <configuration name="infix_To_postfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stack.infix_To_postfix" />
       <module name="shivamtomar.java" />
@@ -127,13 +114,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="prefix_Evaluation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.prefix_Evaluation" />
+      <module name="shivamtomar.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.prefix_Evaluation" />
+        <item itemvalue="Application.infix_To_prefix" />
         <item itemvalue="Application.postfix_Evaluation" />
         <item itemvalue="Application.infix_To_postfix" />
-        <item itemvalue="Application.infix_To_prefix" />
         <item itemvalue="Application.infix_WithBracket" />
-        <item itemvalue="Application.infix" />
       </list>
     </recent_temporary>
   </component>
@@ -145,14 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709044551611</updated>
-    </task>
-    <task id="LOCAL-00044" summary=" new question">
-      <option name="closed" value="true" />
-      <created>1713104777968</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1713104777968</updated>
     </task>
     <task id="LOCAL-00045" summary=" new question">
       <option name="closed" value="true" />
@@ -538,7 +530,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720112346657</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary=" new question">
+      <option name="closed" value="true" />
+      <created>1720113932363</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1720113932363</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
