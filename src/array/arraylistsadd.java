@@ -1,6 +1,7 @@
 package array;
 
 import java.util.ArrayList;
+import java.util.Stack;
 
 public class arraylistsadd {
     public static void main(String[] args) {
@@ -12,6 +13,8 @@ public class arraylistsadd {
         System.out.println(arr+" "+arr.size());
         arr.remove(1);
         System.out.println(arr+" "+arr.size());
+
+         
 
     }
 }
