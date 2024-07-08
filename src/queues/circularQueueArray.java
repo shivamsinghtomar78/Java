@@ -31,6 +31,7 @@ public class circularQueueArray {
                int val=arr[front];
                if(front==arr.length-1) front=0;
                else front++;
+               size--;
                return val;
            }
         }
@@ -66,6 +67,20 @@ public class circularQueueArray {
         }
     }
     public static void main(String[] args) throws Exception {
+        Cqa q=new Cqa();
+        q.display();
+        System.out.println(q.isEmpty());
+        q.add(1);
+        q.add(2);
+        q.add(3);
+        q.add(4);
+        q.add(5);
+        q.display();
+        q.remove();
+        q.display();
+        System.out.println(q.peek());
+        System.out.println(q.isEmpty());
+
 
     }
 }
