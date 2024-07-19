@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment=" new question">
-      <change afterPath="$PROJECT_DIR$/src/binaryTree/traversal_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binaryTree/levelOrderTraversal_UsingQueue10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binaryTree/printElementOf_Nth_Level_11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,12 +60,26 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shiva/shivam.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.traversal_9">
-    <configuration name="NodeWithMaxValue_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binaryTree.NodeWithMaxValue_5" />
+  <component name="RunManager" selected="Application.levelOrderTraversal_Using_NthLevel_12">
+    <configuration name="declarationOfArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayList_2D.declarationOfArrayList" />
+      <module name="shivamtomar.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayList_2D.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="levelOrderTraversal_UsingQueue10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binaryTree.levelOrderTraversal_UsingQueue10" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NodeWithMinValue_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binaryTree.NodeWithMinValue_6" />
+    <configuration name="levelOrderTraversal_Using_NthLevel_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binaryTree.levelOrderTraversal_Using_NthLevel_12" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -89,21 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="levelOfBinaryTree_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binaryTree.levelOfBinaryTree_8" />
-      <module name="shivamtomar.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="binaryTree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sizeOfBinaryTree_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binaryTree.sizeOfBinaryTree_7" />
+    <configuration name="printElementOf_Nth_Level_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binaryTree.printElementOf_Nth_Level_11" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.levelOrderTraversal_Using_NthLevel_12" />
+        <item itemvalue="Application.declarationOfArrayList" />
+        <item itemvalue="Application.printElementOf_Nth_Level_11" />
+        <item itemvalue="Application.levelOrderTraversal_UsingQueue10" />
         <item itemvalue="Application.traversal_9" />
-        <item itemvalue="Application.NodeWithMaxValue_5" />
-        <item itemvalue="Application.levelOfBinaryTree_8" />
-        <item itemvalue="Application.sizeOfBinaryTree_7" />
-        <item itemvalue="Application.NodeWithMinValue_6" />
       </list>
     </recent_temporary>
   </component>
@@ -146,14 +148,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709044551611</updated>
-    </task>
-    <task id="LOCAL-00062" summary=" new question">
-      <option name="closed" value="true" />
-      <created>1714242537967</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1714242537967</updated>
     </task>
     <task id="LOCAL-00063" summary=" new question">
       <option name="closed" value="true" />
@@ -539,7 +533,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720677547136</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary=" new question">
+      <option name="closed" value="true" />
+      <created>1721271042761</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1721271042762</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
