@@ -19,11 +19,21 @@ public class traversal_9 {
         System.out.print("preorder: ");
       preorder(a);
         System.out.println();
-        System.out.print("inorder: ");
+        System.out.print("inorder:  ");
         inorder(a);
         System.out.println();
-        System.out.print("postorder: ");
+        System.out.print("postorder:");
         postorder(a);
+        System.out.println();
+        System.out.print("revPreorder:");
+        revPreOrder(a);
+        System.out.println();
+        System.out.print("revInorder:");
+        revInOrder(a);
+        System.out.println();
+        System.out.print("rePostorder:");
+        revPostOrder(a);
+
     }
     private static void  preorder(Node root){
         if(root==null) return ; // Base case
@@ -45,6 +55,28 @@ public class traversal_9 {
         if(root==null) return ; // Base case
         postorder(root.left);
         postorder(root.right);
+        System.out.print(root.val+" ");
+
+    }
+    private static void  revPreOrder(Node root){
+        if(root==null) return ; // Base case
+        System.out.print(root.val+" ");
+        revPreOrder(root.right);
+        revPreOrder(root.left);
+
+
+    }
+    private static void revInOrder(Node root){
+        if(root==null) return ; // Base case
+        revInOrder(root.right);
+        System.out.print(root.val+" ");
+        revInOrder(root.left);
+
+    }
+    private static void revPostOrder(Node root){
+        if(root==null) return ; // Base case
+        revPostOrder(root.right);
+        revPostOrder(root.left);
         System.out.print(root.val+" ");
 
     }
