@@ -63,7 +63,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/shiva/shivam.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.levelOrderTraversal_Using_Queue">
+  <component name="RunManager" selected="Application.levelOrderTraversal_Using_Queue13">
     <configuration name="declarationOfArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayList_2D.declarationOfArrayList" />
       <module name="shivamtomar.java" />
@@ -103,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="levelOrderTraversal_Using_Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binaryTree.levelOrderTraversal_Using_Queue" />
+    <configuration name="levelOrderTraversal_Using_Queue13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binaryTree.levelOrderTraversal_Using_Queue13" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -131,7 +131,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.levelOrderTraversal_Using_Queue" />
+        <item itemvalue="Application.levelOrderTraversal_Using_Queue13" />
         <item itemvalue="Application.levelOrderTraversal_Using_NthLevel_12" />
         <item itemvalue="Application.declarationOfArrayList" />
         <item itemvalue="Application.printElementOf_Nth_Level_11" />
