@@ -18,7 +18,7 @@ package challenge_;
           enrollment++;
       }
       void unEnrollStudent(String StudentName){
-          System.out.println("Student removed ");
+          System.out.println("Student removed "+StudentName);
           enrolledStudents[enrollment]=null;
           enrollment--;
 
