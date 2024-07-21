@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment=" new commit">
+      <change afterPath="$PROJECT_DIR$/src/challenge_/Course.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/challenge_/book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/challenge_/book.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,14 +147,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709044551611</updated>
-    </task>
-    <task id="LOCAL-00068" summary=" new question">
-      <option name="closed" value="true" />
-      <created>1715578403366</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1715578403368</updated>
     </task>
     <task id="LOCAL-00069" summary=" new question">
       <option name="closed" value="true" />
@@ -540,7 +532,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721571545087</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary=" new commit">
+      <option name="closed" value="true" />
+      <created>1721581554934</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1721581554935</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
