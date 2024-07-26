@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment=" new commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/practiceQ7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/practiceQ7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/practiceQ9_method_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/practiceQ9_method_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,35 +64,9 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/shiva/shivam.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.practiceQ7_2">
-    <configuration name="practiceQ4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.practiceQ4" />
-      <module name="shivamtomar.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="practiceQ5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.practiceQ5" />
-      <module name="shivamtomar.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="practiceQ6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.practiceQ6" />
+  <component name="RunManager" selected="Application.practiceQ10_Merge_two_sorted_arrays">
+    <configuration name="practiceQ10_Merge_two_sorted_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.practiceQ10_Merge_two_sorted_arrays" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -130,13 +104,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="practiceQ8_rotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.practiceQ8_rotateArray" />
+      <module name="shivamtomar.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practiceQ9_method_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.practiceQ9_method_2" />
+      <module name="shivamtomar.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.practiceQ10_Merge_two_sorted_arrays" />
+        <item itemvalue="Application.practiceQ9_method_2" />
+        <item itemvalue="Application.practiceQ8_rotateArray" />
         <item itemvalue="Application.practiceQ7_2" />
         <item itemvalue="Application.practiceQ7" />
-        <item itemvalue="Application.practiceQ6" />
-        <item itemvalue="Application.practiceQ5" />
-        <item itemvalue="Application.practiceQ4" />
       </list>
     </recent_temporary>
   </component>
@@ -148,14 +148,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709044551611</updated>
-    </task>
-    <task id="LOCAL-00073" summary=" new question">
-      <option name="closed" value="true" />
-      <created>1715707178899</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1715707178900</updated>
     </task>
     <task id="LOCAL-00074" summary=" new question">
       <option name="closed" value="true" />
@@ -541,7 +533,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721975043995</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary=" new commit">
+      <option name="closed" value="true" />
+      <created>1721975793180</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1721975793180</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
