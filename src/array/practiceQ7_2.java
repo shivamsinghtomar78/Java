@@ -4,6 +4,7 @@ public class practiceQ7_2 {
         //Q.Write a program to reverse the array without using any extra array.(two pointer)
        int[]arr={10,20,30,40,50,60,70};
        int n=arr.length;
+        System.out.print("Original array: ");
        for(int ele:arr) {
            System.out.print(ele + " ");
 
@@ -20,6 +21,7 @@ public class practiceQ7_2 {
 
 
         }
+        System.out.print("Modified array: ");
         for(int ele:arr){
             System.out.print(ele+" ");
         }
