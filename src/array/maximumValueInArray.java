@@ -2,7 +2,7 @@ package array;
 
 public class maximumValueInArray {
     public static void main(String[] args) {
-        int a[]={50,30,40,20,60};
+        int a[]={50,30,40,20,60,100};
         int max=a[0];
         for (int i = 1; i <a.length ; i++) {
             if(a[i]>max){
@@ -11,7 +11,7 @@ public class maximumValueInArray {
 
 
         }
-        System.out.println("Maximu value of array is "+max);
+        System.out.println("Maximum value of array is "+max);
 
     }
 }

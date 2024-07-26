@@ -15,19 +15,23 @@ public class practiceQ6 {
 
 
         }
-        System.out.print("Enter a number which sum need:");
+        System.out.print("Enter a number target:");
         int x=sc.nextInt();
 
 
        //solution
+        boolean flag=false;
         for(int i=0;i<arr.length;i++){
             for(int j=i+1;j<arr.length;j++){
                 if(arr[i]+arr[j]==x){
                     System.out.println(arr[i]+" "+arr[j]);
+                    flag=true;
                 }
             }
 
-
+        }
+        if(!flag){
+            System.out.println("Target element not found!!");
         }
 
     }

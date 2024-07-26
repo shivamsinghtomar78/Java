@@ -17,7 +17,7 @@ public class practiceQ {
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] < 35) {
 
-                System.out.print("roll number is "+i);
+                System.out.println("roll number is "+i);
             }
 
         }
