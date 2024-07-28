@@ -13,7 +13,7 @@ class TreeNode{
     }
 }
 
-public class inorderPredecessorAndSuccessor {
+public class inorderPredecessorAndSuccessor_USingArrayList {
     public static void main(String[] args) {
         TreeNode a=new TreeNode(20);
         TreeNode b=new TreeNode(30);
