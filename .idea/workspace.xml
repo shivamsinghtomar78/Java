@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment=" new commit">
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/inorderPredecessorAndSuccessor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/practiceQ9_method_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/practiceQ9_method_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +64,13 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/shiva/shivam.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.practiceQ10_Merge_two_sorted_arrays">
-    <configuration name="practiceQ10_Merge_two_sorted_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.practiceQ10_Merge_two_sorted_arrays" />
+  <component name="RunManager" selected="Application.inorderPredecessorAndSuccessor">
+    <configuration name="inorderPredecessorAndSuccessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchTree.inorderPredecessorAndSuccessor" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="BinarySearchTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practiceQ7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.practiceQ7" />
+    <configuration name="practiceQ10_Merge_two_sorted_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.practiceQ10_Merge_two_sorted_arrays" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.inorderPredecessorAndSuccessor" />
         <item itemvalue="Application.practiceQ10_Merge_two_sorted_arrays" />
         <item itemvalue="Application.practiceQ9_method_2" />
         <item itemvalue="Application.practiceQ8_rotateArray" />
         <item itemvalue="Application.practiceQ7_2" />
-        <item itemvalue="Application.practiceQ7" />
       </list>
     </recent_temporary>
   </component>
@@ -148,14 +148,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709044551611</updated>
-    </task>
-    <task id="LOCAL-00074" summary=" new question">
-      <option name="closed" value="true" />
-      <created>1715973738421</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1715973738423</updated>
     </task>
     <task id="LOCAL-00075" summary=" new question">
       <option name="closed" value="true" />
@@ -541,7 +533,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721975793180</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary=" new commit">
+      <option name="closed" value="true" />
+      <created>1721977478079</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1721977478079</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
