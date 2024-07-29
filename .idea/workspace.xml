@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment=" new commit">
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/predecessorAndSuccessor_Without_USing_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/MorrisTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,20 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/shiva/shivam.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.inorderPredecessorAndSuccessor_USingArrayList (1)">
+  <component name="RunManager" selected="Application.MorrisTraversal">
+    <configuration name="MorrisTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchTree.MorrisTraversal" />
+      <module name="shivamtomar.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearchTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="inorderPredecessorAndSuccessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearchTree.inorderPredecessorAndSuccessor" />
       <module name="shivamtomar.java" />
@@ -104,19 +117,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practiceQ10_Merge_two_sorted_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.practiceQ10_Merge_two_sorted_arrays" />
-      <module name="shivamtomar.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="predecessorAndSuccessor_Without_USing_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearchTree.predecessorAndSuccessor_Without_USing_ArrayList" />
       <module name="shivamtomar.java" />
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MorrisTraversal" />
         <item itemvalue="Application.inorderPredecessorAndSuccessor_USingArrayList (1)" />
         <item itemvalue="Application.predecessorAndSuccessor_Without_USing_ArrayList" />
         <item itemvalue="Application.inorderPredecessorAndSuccessor_USingArrayList" />
         <item itemvalue="Application.inorderPredecessorAndSuccessor" />
-        <item itemvalue="Application.practiceQ10_Merge_two_sorted_arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -148,14 +148,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709044551611</updated>
-    </task>
-    <task id="LOCAL-00077" summary=" new question">
-      <option name="closed" value="true" />
-      <created>1716125876534</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1716125876534</updated>
     </task>
     <task id="LOCAL-00078" summary=" new question">
       <option name="closed" value="true" />
@@ -541,7 +533,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722176237913</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary=" new commit">
+      <option name="closed" value="true" />
+      <created>1722183547089</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1722183547089</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

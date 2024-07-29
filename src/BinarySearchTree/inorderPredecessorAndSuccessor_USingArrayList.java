@@ -4,16 +4,17 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-class TreeNode{
+class TreeNode {
     int val;
     TreeNode left;
     TreeNode right;
 
-    TreeNode(int data) {
+    TreeNode(int val) {
         this.val = val;
         this.left = null;
         this.right = null;
     }
+
 }
 
 public class inorderPredecessorAndSuccessor_USingArrayList {
