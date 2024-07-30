@@ -3,7 +3,7 @@ package BinarySearchTree;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MorrisTraversal {
+public class MorrisTraversal_2 {
     public static void main(String[] args) {
         TreeNode a=new TreeNode(20);
         TreeNode b=new TreeNode(30);
