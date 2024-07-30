@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment=" new commit">
-      <change afterPath="$PROJECT_DIR$/src/hashMaps_Sets/addSameInSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashMaps_Sets/basicSet_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashMaps_Sets/setIterate_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicJava_Q/reverseDigit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearchTree/MorrisTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearchTree/MorrisTraversal_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearchTree/inorderPredecessorAndSuccessor_USingArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearchTree/inorderPredecessorAndSuccessor_USingArrayList_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +64,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/shiva/shivam.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.addSameInSet">
+  <component name="RunManager" selected="Application.reverseDigit">
     <configuration name="MorrisTraversal_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearchTree.MorrisTraversal_2" />
       <module name="shivamtomar.java" />
@@ -108,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="inorderPredecessorAndSuccessor_USingArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearchTree.inorderPredecessorAndSuccessor_USingArrayList" />
+    <configuration name="reverseDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicJava_Q.reverseDigit" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearchTree.*" />
+          <option name="PATTERN" value="basicJava_Q.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reverseDigit" />
         <item itemvalue="Application.addSameInSet" />
         <item itemvalue="Application.setIterate_2" />
         <item itemvalue="Application.basicSet_1" />
         <item itemvalue="Application.MorrisTraversal_2" />
-        <item itemvalue="Application.inorderPredecessorAndSuccessor_USingArrayList (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -152,14 +148,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709044551611</updated>
-    </task>
-    <task id="LOCAL-00080" summary=" new question">
-      <option name="closed" value="true" />
-      <created>1717566351702</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1717566351702</updated>
     </task>
     <task id="LOCAL-00081" summary=" new question">
       <option name="closed" value="true" />
@@ -545,7 +533,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722277445066</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary=" new commit">
+      <option name="closed" value="true" />
+      <created>1722338676919</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1722338676920</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
