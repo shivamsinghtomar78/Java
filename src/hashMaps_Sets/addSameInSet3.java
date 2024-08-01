@@ -2,7 +2,7 @@ package hashMaps_Sets;
 
 import java.util.HashSet;
 
-public class addSameInSet {
+public class addSameInSet3 {
     public static void main(String[] args) {
         HashSet<String> set=new HashSet<>();
         set.add("Shivam");

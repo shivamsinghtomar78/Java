@@ -27,5 +27,7 @@ public class basicSet_1 {
             System.out.print(ele+" ");
         }
 
+
     }
+
 }
