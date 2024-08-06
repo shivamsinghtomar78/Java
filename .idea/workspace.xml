@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment=" new commit">
-      <change afterPath="$PROJECT_DIR$/src/Heaps/basicMaxHeapCollectionFrameWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heaps/basicMinHeapCollectionFrameWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heaps/customComparator5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heaps/kthSmallestElement3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heaps/kthSmallestElement_OptimalSol4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hashMaps_Sets/basicOfTreeMap7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashMaps_Sets/basicOfTreeMap7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Heaps/basicMaxHeapCollectionFrameWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heaps/basicMaxHeapCollectionFrameWork2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Heaps/basicMinHeapCollectionFrameWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heaps/basicMinHeapCollectionFrameWork1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,9 +68,9 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/shiva/shivam.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.basicMaxHeapCollectionFrameWork">
-    <configuration name="basicMaxHeapCollectionFrameWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heaps.basicMaxHeapCollectionFrameWork" />
+  <component name="RunManager" selected="Application.customComparator5">
+    <configuration name="basicMaxHeapCollectionFrameWork2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heaps.basicMaxHeapCollectionFrameWork2" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="basicMinHeapCollectionFrameWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heaps.basicMinHeapCollectionFrameWork" />
+    <configuration name="customComparator5 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heaps.customComparator5" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -93,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="basicOfTreeMap7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashMaps_Sets.basicOfTreeMap7" />
+    <configuration name="customComparator5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heaps.customComparator5" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashMaps_Sets.*" />
+          <option name="PATTERN" value="Heaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="basicOfTreeSet6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashMaps_Sets.basicOfTreeSet6" />
+    <configuration name="kthSmallestElement3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heaps.kthSmallestElement3" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashMaps_Sets.*" />
+          <option name="PATTERN" value="Heaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="basicSet_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashMaps_Sets.basicSet_1" />
+    <configuration name="kthSmallestElement_OptimalSol4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heaps.kthSmallestElement_OptimalSol4" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashMaps_Sets.*" />
+          <option name="PATTERN" value="Heaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.basicMaxHeapCollectionFrameWork" />
-        <item itemvalue="Application.basicMinHeapCollectionFrameWork" />
-        <item itemvalue="Application.basicOfTreeMap7" />
-        <item itemvalue="Application.basicSet_1" />
-        <item itemvalue="Application.basicOfTreeSet6" />
+        <item itemvalue="Application.customComparator5" />
+        <item itemvalue="Application.customComparator5 (1)" />
+        <item itemvalue="Application.kthSmallestElement_OptimalSol4" />
+        <item itemvalue="Application.kthSmallestElement3" />
+        <item itemvalue="Application.basicMaxHeapCollectionFrameWork2" />
       </list>
     </recent_temporary>
   </component>
@@ -150,14 +152,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709044551611</updated>
-    </task>
-    <task id="LOCAL-00083" summary=" new question">
-      <option name="closed" value="true" />
-      <created>1719545610255</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1719545610256</updated>
     </task>
     <task id="LOCAL-00084" summary=" new question">
       <option name="closed" value="true" />
@@ -543,7 +537,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722532640587</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary=" new commit">
+      <option name="closed" value="true" />
+      <created>1722709737524</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1722709737527</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

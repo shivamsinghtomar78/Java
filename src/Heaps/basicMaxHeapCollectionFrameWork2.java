@@ -3,7 +3,7 @@ package Heaps;
 import java.util.Collections;
 import java.util.PriorityQueue;
 
-public class basicMaxHeapCollectionFrameWork {
+public class basicMaxHeapCollectionFrameWork2 {
     public static void main(String[] args) {
         PriorityQueue<Integer> pq=new PriorityQueue<>(Collections.reverseOrder());
         pq.add(2);

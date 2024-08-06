@@ -2,7 +2,7 @@ package Heaps;
 
 import java.util.PriorityQueue;
 
-public class basicMinHeapCollectionFrameWork {
+public class basicMinHeapCollectionFrameWork1 {
     public static void main(String[] args) {
         PriorityQueue<Integer> pq=new PriorityQueue<>();
         pq.add(2);
