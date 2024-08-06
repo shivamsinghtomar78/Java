@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment=" new commit">
-      <change afterPath="$PROJECT_DIR$/src/Heaps/customComparator5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heaps/kthSmallestElement3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heaps/kthSmallestElement_OptimalSol4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heaps/minHeapImplementationArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Heaps/basicMaxHeapCollectionFrameWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heaps/basicMaxHeapCollectionFrameWork2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Heaps/basicMinHeapCollectionFrameWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heaps/basicMinHeapCollectionFrameWork1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,20 +64,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/shiva/shivam.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.customComparator5">
-    <configuration name="basicMaxHeapCollectionFrameWork2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heaps.basicMaxHeapCollectionFrameWork2" />
-      <module name="shivamtomar.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Heaps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.minHeapImplementationArray">
     <configuration name="customComparator5 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Heaps.customComparator5" />
       <module name="shivamtomar.java" />
@@ -134,13 +117,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="minHeapImplementationArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heaps.minHeapImplementationArray" />
+      <module name="shivamtomar.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Heaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.minHeapImplementationArray" />
         <item itemvalue="Application.customComparator5" />
         <item itemvalue="Application.customComparator5 (1)" />
         <item itemvalue="Application.kthSmallestElement_OptimalSol4" />
         <item itemvalue="Application.kthSmallestElement3" />
-        <item itemvalue="Application.basicMaxHeapCollectionFrameWork2" />
       </list>
     </recent_temporary>
   </component>
@@ -152,14 +148,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709044551611</updated>
-    </task>
-    <task id="LOCAL-00084" summary=" new question">
-      <option name="closed" value="true" />
-      <created>1719597295751</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1719597295752</updated>
     </task>
     <task id="LOCAL-00085" summary=" new question">
       <option name="closed" value="true" />
@@ -545,7 +533,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722709737527</updated>
     </task>
-    <option name="localTasksCounter" value="133" />
+    <task id="LOCAL-00133" summary=" new commit">
+      <option name="closed" value="true" />
+      <created>1722923924888</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1722923924890</updated>
+    </task>
+    <option name="localTasksCounter" value="134" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
