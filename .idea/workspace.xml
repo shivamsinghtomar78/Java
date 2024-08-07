@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fcd0028-0efd-41a4-bd98-6643ae208f24" name="Changes" comment=" new commit">
-      <change afterPath="$PROJECT_DIR$/src/Heaps/minHeapImplementationArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heaps/IsBtMaxHeap_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenge_/SwiftFood.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Heaps/minHeapImplementationArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heaps/minHeapImplementationArray6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binaryTree/levelOrderTraversal_Using_NthLevel_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binaryTree/levelOrderTraversal_Using_NthLevel_12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +67,39 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/shiva/shivam.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.minHeapImplementationArray">
-    <configuration name="customComparator5 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heaps.customComparator5" />
+  <component name="RunManager" selected="Application.IsBtMaxHeap_7 (1)">
+    <configuration name="IsBtMaxHeap_7 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heaps.IsBtMaxHeap_7" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Heaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsBtMaxHeap_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heaps.IsBtMaxHeap_7" />
+      <module name="shivamtomar.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Heaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwiftFood" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenge_.SwiftFood" />
+      <module name="shivamtomar.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenge_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,32 +109,6 @@
     </configuration>
     <configuration name="customComparator5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Heaps.customComparator5" />
-      <module name="shivamtomar.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Heaps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="kthSmallestElement3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heaps.kthSmallestElement3" />
-      <module name="shivamtomar.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Heaps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="kthSmallestElement_OptimalSol4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heaps.kthSmallestElement_OptimalSol4" />
       <module name="shivamtomar.java" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsBtMaxHeap_7 (1)" />
+        <item itemvalue="Application.IsBtMaxHeap_7" />
+        <item itemvalue="Application.SwiftFood" />
         <item itemvalue="Application.minHeapImplementationArray" />
         <item itemvalue="Application.customComparator5" />
-        <item itemvalue="Application.customComparator5 (1)" />
-        <item itemvalue="Application.kthSmallestElement_OptimalSol4" />
-        <item itemvalue="Application.kthSmallestElement3" />
       </list>
     </recent_temporary>
   </component>
@@ -148,14 +151,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709044551611</updated>
-    </task>
-    <task id="LOCAL-00085" summary=" new question">
-      <option name="closed" value="true" />
-      <created>1719602846600</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1719602846600</updated>
     </task>
     <task id="LOCAL-00086" summary=" new question">
       <option name="closed" value="true" />
@@ -541,7 +536,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722923924890</updated>
     </task>
-    <option name="localTasksCounter" value="134" />
+    <task id="LOCAL-00134" summary=" new commit">
+      <option name="closed" value="true" />
+      <created>1722943588118</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1722943588118</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -62,7 +62,7 @@ class minHeap{
 }
 
 
-public class minHeapImplementationArray {
+public class minHeapImplementationArray6 {
     public static void main(String[] args) throws Exception {
         minHeap pq=new minHeap(10);
         System.out.println(pq.peek());
